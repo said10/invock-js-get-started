@@ -1,0 +1,27 @@
+{
+  "name": "",
+  "version": "",
+  "homepage": "",
+  "description": "invock-js Get Started project",
+  "main": "index.html",
+  "keywords": [],
+  "author": "invock-js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-1": "^6.24.1",
+    "webpack": "^4.16.1",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "dependencies": {
+    "invock-js": "^1.1.12",
+    "parser-html": "^1.0.5"
+  }
+}
