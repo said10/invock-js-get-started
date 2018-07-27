@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+    font-size : 16px;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+.background {
+    padding: 15px;
+    background: #e15554;
+    color: #fff;
+}
+.background-mobile {
+    padding: 15px;
+    background: #218692;
+    color: #fff;
+}
