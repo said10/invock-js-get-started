@@ -21,7 +21,7 @@
     "webpack-dev-server": "^3.1.4"
   },
   "dependencies": {
-    "invock-js": "^1.1.15",
+    "invock-js": "^1.1.16",
     "parser-html": "^1.0.5"
   }
 }
